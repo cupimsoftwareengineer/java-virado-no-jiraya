@@ -7,7 +7,10 @@
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Seminario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Seminario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Gassociacao/test/AssociacaoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Gassociacao/test/AssociacaoTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/FuncionarioTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/FuncionarioTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Professor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/EscolaTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/EscolaTest01.class" afterDir="false" />
     </list>
@@ -62,7 +65,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.Fmodificadorestatico.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AssociacaoTest01">
+  <component name="RunManager" selected="Application.HerancaTest01">
     <configuration name="AssociacaoTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Gassociacao.test.AssociacaoTest01" />
       <module name="maratona-java" />
@@ -76,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EscolaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Gassociacao.test.EscolaTest01" />
+    <configuration name="HerancaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Hheranca.test.HerancaTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Gassociacao.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Hheranca.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HerancaTest01" />
         <item itemvalue="Application.AssociacaoTest01" />
         <item itemvalue="Application.LeituradoTecladoTest02" />
         <item itemvalue="Application.LeituradoTecladoTest01" />
         <item itemvalue="Application.JogadorTest03" />
-        <item itemvalue="Application.EscolaTest01" />
       </list>
     </recent_temporary>
   </component>
