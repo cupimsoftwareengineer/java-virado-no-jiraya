@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Tomate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Tomate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/CalculadoraImposto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/CalculadoraImposto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.Fmodificadorestatico.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProdutoTeste02">
+  <component name="RunManager" selected="Application.ProdutoTest01">
     <configuration name="ClienteTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Kenum.test.ClienteTest01" />
       <module name="maratona-java" />
@@ -131,8 +132,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProdutoTeste02" />
         <item itemvalue="Application.ProdutoTest01" />
+        <item itemvalue="Application.ProdutoTeste02" />
         <item itemvalue="Application.ClienteTest01" />
         <item itemvalue="Application.FuncionarioTest01" />
         <item itemvalue="Application.DataLoaderTest01" />
