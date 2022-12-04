@@ -67,9 +67,9 @@
       <recent name="academy.devdojo.maratonajava.javacore.Fmodificadorestatico.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TryWithResourcesTest01">
-    <configuration name="ExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.ExceptionTest01" />
+  <component name="RunManager" selected="Application.LoginInvalidoExceptionTest01">
+    <configuration name="LoginInvalidoExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.LoginInvalidoExceptionTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoginInvalidoExceptionTest01" />
         <item itemvalue="Application.TryWithResourcesTest01" />
         <item itemvalue="Application.RuntimeExceptionTest04" />
         <item itemvalue="Application.RuntimeExceptionTest03" />
         <item itemvalue="Application.RuntimeExceptionTest02" />
-        <item itemvalue="Application.ExceptionTest01" />
       </list>
     </recent_temporary>
   </component>
