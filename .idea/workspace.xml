@@ -6,6 +6,94 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/CarroTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/CarroTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/ProfessorTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/ProfessorTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Calculadora.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Estudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Estudante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/ImpressoraEstudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/ImpressoraEstudante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/dominio/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/EstudanteTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/FuncionarioTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/FuncionarioTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Csobrecargametodos/dominio/Anime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Csobrecargametodos/dominio/Anime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Csobrecargametodos/test/AnimeTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Csobrecargametodos/test/AnimeTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Dconstrutores/dominio/Anime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Dconstrutores/dominio/Anime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Dconstrutores/test/AnimeTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Dconstrutores/test/AnimeTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Eblocosinicializacao/dominio/Anime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Eblocosinicializacao/dominio/Anime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Eblocosinicializacao/test/AnimeTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Eblocosinicializacao/test/AnimeTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/domain/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/domain/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/test/AnimeTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/test/AnimeTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/test/CarroTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/test/CarroTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Escola.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Escola.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Jogador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Jogador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Local.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Local.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Seminario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Seminario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/AssociacaoTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/AssociacaoTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/EscolaTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/EscolaTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/LeituradoTecladoTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/LeituradoTecladoTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/LeituradoTecladoTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Gassociacao/test/LeituradoTecladoTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/dominio/Endereco.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/dominio/Endereco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/dominio/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/dominio/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/dominio/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/dominio/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/test/HerancaTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/test/HerancaTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/test/HerancaTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/test/HerancaTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Isobrescrita/dominio/Anime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Isobrescrita/dominio/Anime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Isobrescrita/test/AnimeTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Isobrescrita/test/AnimeTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Comprador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Comprador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Ferrari.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Ferrari.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Jmodificadorfinal/test/CarroTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Jmodificadorfinal/test/CarroTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Kenum/dominio/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Kenum/dominio/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Kenum/dominio/TipoCliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Kenum/dominio/TipoCliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Kenum/dominio/TipoPagamento$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Kenum/dominio/TipoPagamento$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Kenum/dominio/TipoPagamento$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Kenum/dominio/TipoPagamento$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Kenum/dominio/TipoPagamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Kenum/dominio/TipoPagamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Kenum/test/ClienteTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Kenum/test/ClienteTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Desenvolvedor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Desenvolvedor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Gerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Gerente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/test/FuncionarioTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/test/FuncionarioTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Minterfaces/dominio/DataLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Minterfaces/dominio/DataLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Minterfaces/dominio/DataRemover.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Minterfaces/dominio/DataRemover.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Minterfaces/dominio/DatabaseLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Minterfaces/dominio/DatabaseLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Minterfaces/dominio/FileLoader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Minterfaces/dominio/FileLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Minterfaces/test/DataLoaderTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Minterfaces/test/DataLoaderTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Computador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Computador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Taxavel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Taxavel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Televisao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Televisao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Tomate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/dominio/Tomate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/repositorio/Repositorio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/repositorio/Repositorio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/CalculadoraImposto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/CalculadoraImposto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioArquivo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioArquivo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioBancodeDados.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioBancodeDados.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioMemoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioMemoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTeste02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTeste02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTeste03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTeste03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/RepositorioTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/RepositorioTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/error/test/StackOverFlowTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/error/test/StackOverFlowTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/test/ExceptionTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/test/ExceptionTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest02.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,31 +148,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Oexception.runtime.test" />
+      <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.servico" />
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Fmodificadorestatico.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RuntimeExceptionTest02">
+  <component name="RunManager" selected="Application.RuntimeExceptionTest04">
     <configuration name="ExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.ExceptionTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RepositorioTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Npolimorfismo.test.RepositorioTeste" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Npolimorfismo.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +195,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackOverFlowTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.test.StackOverFlowTest01" />
+    <configuration name="RuntimeExceptionTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.runtime.test.RuntimeExceptionTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.runtime.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RuntimeExceptionTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.runtime.test.RuntimeExceptionTest04" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.runtime.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RuntimeExceptionTest04" />
+        <item itemvalue="Application.RuntimeExceptionTest03" />
         <item itemvalue="Application.RuntimeExceptionTest02" />
         <item itemvalue="Application.ExceptionTest01" />
         <item itemvalue="Application.RuntimeExceptionTest01" />
-        <item itemvalue="Application.StackOverFlowTest01" />
-        <item itemvalue="Application.RepositorioTeste" />
       </list>
     </recent_temporary>
   </component>
