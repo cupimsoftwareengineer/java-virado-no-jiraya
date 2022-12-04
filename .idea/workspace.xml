@@ -65,26 +65,13 @@
       <recent name="academy.devdojo.maratonajava.javacore.Fmodificadorestatico.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionTest01">
+  <component name="RunManager" selected="Application.RuntimeExceptionTest02">
     <configuration name="ExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.ExceptionTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProdutoTeste03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Npolimorfismo.test.ProdutoTeste03" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Npolimorfismo.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RuntimeExceptionTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.runtime.test.RuntimeExceptionTest02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.runtime.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StackOverFlowTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.test.StackOverFlowTest01" />
       <module name="maratona-java" />
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RuntimeExceptionTest02" />
         <item itemvalue="Application.ExceptionTest01" />
         <item itemvalue="Application.RuntimeExceptionTest01" />
         <item itemvalue="Application.StackOverFlowTest01" />
         <item itemvalue="Application.RepositorioTeste" />
-        <item itemvalue="Application.ProdutoTeste03" />
       </list>
     </recent_temporary>
   </component>
