@@ -4,7 +4,7 @@ public class WrapperTest01 {
   public static void main(String[] args) {
     byte byteP = 1;
     short shortP = 1;
-    int intP = 1;
+    int intP = 1; // autoboxing
     long longP = 10L;
     float floatP = 10F;
     double doubleP = 10D;
@@ -19,5 +19,18 @@ public class WrapperTest01 {
     Double doubleW = 10D;
     Character charW = 'W';
     Boolean booleanW = false;
+
+    int i = intW; // unboxing
+    Integer intW2 = Integer.parseInt("1");
+    Boolean verdadeiro = Boolean.parseBoolean("TruE");
+    System.out.println(verdadeiro);
+
+    System.out.println(Character.isDigit('A'));
+    System.out.println(Character.isDigit('9'));
+    System.out.println(Character.isLetter('!'));
+    System.out.println(Character.isUpperCase('!'));
+    System.out.println(Character.isLowerCase('!'));
+    System.out.println(Character.toUpperCase('A'));
+    System.out.println(Character.toLowerCase('a'));
   }
 }
