@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Sformatacao/test/SimpleDateFormatTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Sformatacao/test/SimpleDateFormatTest01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LocalDateTest01">
+  <component name="RunManager" selected="Application.LocalTimeTest01">
     <configuration name="LocalDateTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.LocalDateTest01" />
       <module name="maratona-java" />
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Sformatacao.test.LocalTest02" />
+    <configuration name="LocalTimeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.LocalTimeTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Sformatacao.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Rdates.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LocalTimeTest01" />
         <item itemvalue="Application.LocalDateTest01" />
         <item itemvalue="Application.SimpleDateFormatTest01" />
         <item itemvalue="Application.NumberFormatTest02" />
         <item itemvalue="Application.NumberFormatTest01" />
-        <item itemvalue="Application.LocalTest02" />
       </list>
     </recent_temporary>
   </component>
