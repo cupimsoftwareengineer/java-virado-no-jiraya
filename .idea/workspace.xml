@@ -66,7 +66,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TemporalAdjustersTest01">
+  <component name="RunManager" selected="Application.TemporalAdjusterTest01 (2)">
     <configuration name="ChronoUnitTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.ChronoUnitTest01" />
       <module name="maratona-java" />
@@ -80,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DurationTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.DurationTest01" />
+    <configuration name="TemporalAdjusterTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.TemporalAdjusterTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstantTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.InstantTest01" />
+    <configuration name="TemporalAdjusterTest01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.TemporalAdjusterTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PeriodTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.PeriodTest01" />
+    <configuration name="TemporalAdjusterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.TemporalAdjusterTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemporalAdjusterTest01 (2)" />
+        <item itemvalue="Application.TemporalAdjusterTest01" />
+        <item itemvalue="Application.TemporalAdjusterTest01 (1)" />
         <item itemvalue="Application.TemporalAdjustersTest01" />
         <item itemvalue="Application.ChronoUnitTest01" />
-        <item itemvalue="Application.PeriodTest01" />
-        <item itemvalue="Application.DurationTest01" />
-        <item itemvalue="Application.InstantTest01" />
       </list>
     </recent_temporary>
   </component>
