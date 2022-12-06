@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Sformatacao/test/SimpleDateFormatTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Sformatacao/test/SimpleDateFormatTest01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +43,18 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/georgebias/www/youtube/devdojo/java-jiraya/maratona-java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/georgebias/www/youtube/devdojo/java-jiraya/maratona-java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
@@ -66,13 +67,13 @@
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleDateFormatTest01">
-    <configuration name="LocalTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Sformatacao.test.LocalTest02" />
+  <component name="RunManager" selected="Application.LocalDateTest01">
+    <configuration name="LocalDateTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.LocalDateTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Sformatacao.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Rdates.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocaleTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Sformatacao.test.LocaleTest01" />
+    <configuration name="LocalTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Sformatacao.test.LocalTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LocalDateTest01" />
         <item itemvalue="Application.SimpleDateFormatTest01" />
         <item itemvalue="Application.NumberFormatTest02" />
         <item itemvalue="Application.NumberFormatTest01" />
         <item itemvalue="Application.LocalTest02" />
-        <item itemvalue="Application.LocaleTest01" />
       </list>
     </recent_temporary>
   </component>
