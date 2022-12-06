@@ -6,9 +6,32 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Pwrapper/test/WrapperTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Pwrapper/test/WrapperTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/FuncionarioTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/FuncionarioTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/PessoaTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/domain/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/domain/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/dominio/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/dominio/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/test/HerancaTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/test/HerancaTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/test/HerancaTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Hheranca/test/HerancaTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Desenvolvedor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Desenvolvedor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Gerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/dominio/Gerente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/test/FuncionarioTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Lclassesabstratas/test/FuncionarioTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/repositorio/Repositorio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/repositorio/Repositorio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioArquivo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioArquivo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioBancodeDados.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioBancodeDados.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioMemoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/RepositorioMemoria.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Leitor1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Leitor1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Leitor2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Leitor2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/LoginInvalidoException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/LoginInvalidoException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/dominio/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/test/ExceptionTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/test/ExceptionTest02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/test/LoginInvalidoExceptionTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/test/LoginInvalidoExceptionTest01.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/test/SobrescritaComExceptionTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/test/SobrescritaComExceptionTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/test/TryWithResourcesTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/exception/test/TryWithResourcesTest01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Pwrapper/test/WrapperTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Pwrapper/test/WrapperTest01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,26 +93,13 @@
       <recent name="academy.devdojo.maratonajava.javacore.Fmodificadorestatico.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WrapperTest01">
+  <component name="RunManager" selected="Application.StringTest02">
     <configuration name="LoginInvalidoExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.LoginInvalidoExceptionTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RuntimeExceptionTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.runtime.test.RuntimeExceptionTest04" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.runtime.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +120,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryWithResourcesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.TryWithResourcesTest01" />
+    <configuration name="StringTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Qstring.Test.StringTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Qstring.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Qstring.Test.StringTest02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Qstring.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringTest02" />
+        <item itemvalue="Application.StringTest01" />
         <item itemvalue="Application.WrapperTest01" />
         <item itemvalue="Application.SobrescritaComExceptionTest01" />
         <item itemvalue="Application.LoginInvalidoExceptionTest01" />
-        <item itemvalue="Application.TryWithResourcesTest01" />
-        <item itemvalue="Application.RuntimeExceptionTest04" />
       </list>
     </recent_temporary>
   </component>
