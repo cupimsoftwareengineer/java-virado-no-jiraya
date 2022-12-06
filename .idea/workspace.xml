@@ -48,12 +48,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "idea.background.editor": "/Users/georgebias/Downloads/2034304.webp,8,tile,center",
     "last_opened_file_path": "/Users/georgebias/www/youtube/devdojo/java-jiraya/maratona-java",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
   <component name="RebelAgentSelection">
@@ -68,13 +67,13 @@
       <recent name="academy.devdojo.maratonajava.javacore.Fmodificadorestatico.domain" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringPerfomanceTest">
-    <configuration name="SobrescritaComExceptionTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.SobrescritaComExceptionTest01" />
+  <component name="RunManager" selected="Application.StringBuilderTest01">
+    <configuration name="StringBuilderTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Qstring.Test.StringBuilderTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Oexception.exception.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Qstring.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderTest01" />
         <item itemvalue="Application.StringPerfomanceTest" />
         <item itemvalue="Application.StringTest02" />
         <item itemvalue="Application.StringTest01" />
         <item itemvalue="Application.WrapperTest01" />
-        <item itemvalue="Application.SobrescritaComExceptionTest01" />
       </list>
     </recent_temporary>
   </component>
