@@ -66,7 +66,20 @@
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InstantTest01">
+  <component name="RunManager" selected="Application.DurationTest01">
+    <configuration name="DurationTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.DurationTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Rdates.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InstantTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.InstantTest01" />
       <module name="maratona-java" />
@@ -119,26 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleDateFormatTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Sformatacao.test.SimpleDateFormatTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Sformatacao.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DurationTest01" />
         <item itemvalue="Application.InstantTest01" />
         <item itemvalue="Application.LocalDateTime01" />
         <item itemvalue="Application.LocalTimeTest01" />
         <item itemvalue="Application.LocalDateTest01" />
-        <item itemvalue="Application.SimpleDateFormatTest01" />
       </list>
     </recent_temporary>
   </component>
