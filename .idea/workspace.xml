@@ -66,20 +66,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TemporalAdjusterTest01 (2)">
-    <configuration name="ChronoUnitTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.ChronoUnitTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Rdates.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ZoneTest01">
     <configuration name="TemporalAdjusterTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.TemporalAdjusterTest01" />
       <module name="maratona-java" />
@@ -132,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZoneTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.ZoneTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Rdates.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZoneTest01" />
         <item itemvalue="Application.TemporalAdjusterTest01 (2)" />
         <item itemvalue="Application.TemporalAdjusterTest01" />
         <item itemvalue="Application.TemporalAdjusterTest01 (1)" />
         <item itemvalue="Application.TemporalAdjustersTest01" />
-        <item itemvalue="Application.ChronoUnitTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +167,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.time.LocalDate" memberName="year" />
+        <PinnedItemInfo parentTag="java.time.LocalDate" memberName="month" />
+        <PinnedItemInfo parentTag="java.time.LocalDate" memberName="day" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
