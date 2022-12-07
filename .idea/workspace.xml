@@ -72,14 +72,14 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Uregex.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Sformatacao.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.runtime.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.servico" />
-      <recent name="academy.devdojo.maratonajava.javacore.Npolimorfismo.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PatternMatcherTest01">
+  <component name="RunManager" selected="Application.PatternMatcherTest02">
     <configuration name="DateTimeFormatterTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Sformatacao.DateTimeFormatterTest01" />
       <module name="maratona-java" />
@@ -106,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResourceBundleTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Tresourcebundle.test.ResourceBundleTest01" />
+    <configuration name="PatternMatcherTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Uregex.test.PatternMatcherTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Tresourcebundle.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Uregex.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemporalAdjusterTest01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Rdates.test.TemporalAdjusterTest01" />
+    <configuration name="ResourceBundleTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Tresourcebundle.test.ResourceBundleTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Rdates.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Tresourcebundle.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PatternMatcherTest02" />
         <item itemvalue="Application.PatternMatcherTest01" />
         <item itemvalue="Application.ResourceBundleTest01" />
         <item itemvalue="Application.DateTimeFormatterTest01" />
         <item itemvalue="Application.ZoneTest01" />
-        <item itemvalue="Application.TemporalAdjusterTest01 (2)" />
       </list>
     </recent_temporary>
   </component>
