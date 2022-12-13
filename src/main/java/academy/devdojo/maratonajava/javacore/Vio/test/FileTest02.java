@@ -3,7 +3,7 @@ package academy.devdojo.maratonajava.javacore.Vio.test;
 import java.io.File;
 import java.io.IOException;
 
-public class fileTest02 {
+public class FileTest02 {
     public static void main(String[] args) throws IOException {
         File fileDiretorio = new File("pasta");
         boolean isDiretorioCriado = fileDiretorio.mkdir();
