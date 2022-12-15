@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/PathTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/ResolveTest03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Wnio/test/PathTest03.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,13 +79,13 @@
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RelativizeTest01">
-    <configuration name="FileTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Vio.test.FileTest02" />
+  <component name="RunManager" selected="Application.BasicFileAttributesTest01">
+    <configuration name="BasicFileAttributesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Wnio.test.BasicFileAttributesTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Vio.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Wnio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicFileAttributesTest01" />
         <item itemvalue="Application.RelativizeTest01" />
         <item itemvalue="Application.ResolveTest03" />
         <item itemvalue="Application.PathTest02" />
         <item itemvalue="Application.PathTest01" />
-        <item itemvalue="Application.FileTest02" />
       </list>
     </recent_temporary>
   </component>
