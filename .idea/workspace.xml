@@ -80,7 +80,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PathMatcherTest01">
+  <component name="RunManager" selected="Application.PathMatcherTest02">
     <configuration name="PathMatcherTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Wnio.test.PathMatcherTest01" />
       <module name="maratona-java" />
@@ -94,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFileVisitorTest02 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Wnio.test.SimpleFileVisitorTest02" />
+    <configuration name="PathMatcherTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Wnio.test.PathMatcherTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -148,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PathMatcherTest02" />
         <item itemvalue="Application.PathMatcherTest01" />
         <item itemvalue="Application.SimpleFileVisitorTest02" />
         <item itemvalue="Application.SimpleFileVisitorTest02 (5)" />
         <item itemvalue="Application.SimpleFileVisitorTest02 (4)" />
-        <item itemvalue="Application.SimpleFileVisitorTest02 (3)" />
       </list>
     </recent_temporary>
   </component>
