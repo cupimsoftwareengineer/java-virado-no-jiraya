@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasta2/novo_path.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/georgebias/dev/arquivo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pasta/subpasta/subsubpasta/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pasta/subpasta/subsubpasta/file_renamed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pasta2/arquivo_renomeado.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pasta2/new.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pasta2/novo.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +85,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BasicFileAttributesTest02">
+  <component name="RunManager" selected="Application.DosFileAttributesTest01">
     <configuration name="BasicFileAttributesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Wnio.test.BasicFileAttributesTest01" />
       <module name="maratona-java" />
@@ -107,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Wnio.test.PathTest02" />
+    <configuration name="DosFileAttributesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Wnio.test.DosFileAttributesTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -148,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DosFileAttributesTest01" />
         <item itemvalue="Application.BasicFileAttributesTest02" />
         <item itemvalue="Application.BasicFileAttributesTest01" />
         <item itemvalue="Application.RelativizeTest01" />
         <item itemvalue="Application.ResolveTest03" />
-        <item itemvalue="Application.PathTest02" />
       </list>
     </recent_temporary>
   </component>
