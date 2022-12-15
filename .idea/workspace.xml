@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/SimpleFileVisitorTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Wnio/test/SimpleFileVisitorTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Wnio/test/ListAllFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Wnio/test/ListAllFiles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Wnio/test/SimpleFileVisitorTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Wnio/test/SimpleFileVisitorTest01.class" afterDir="false" />
-    </list>
+    <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,9 +80,9 @@
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleFileVisitorTest02">
-    <configuration name="SimpleFileVisitorTest02 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Wnio.test.SimpleFileVisitorTest02" />
+  <component name="RunManager" selected="Application.PathMatcherTest01">
+    <configuration name="PathMatcherTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Wnio.test.PathMatcherTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PathMatcherTest01" />
         <item itemvalue="Application.SimpleFileVisitorTest02" />
         <item itemvalue="Application.SimpleFileVisitorTest02 (5)" />
         <item itemvalue="Application.SimpleFileVisitorTest02 (4)" />
         <item itemvalue="Application.SimpleFileVisitorTest02 (3)" />
-        <item itemvalue="Application.SimpleFileVisitorTest02 (2)" />
       </list>
     </recent_temporary>
   </component>
