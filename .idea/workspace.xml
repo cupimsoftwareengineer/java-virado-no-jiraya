@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pasta2/novo_path.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BasicFileAttributesTest01">
+  <component name="RunManager" selected="Application.BasicFileAttributesTest02">
     <configuration name="BasicFileAttributesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Wnio.test.BasicFileAttributesTest01" />
       <module name="maratona-java" />
@@ -93,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Wnio.test.PathTest01" />
+    <configuration name="BasicFileAttributesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Wnio.test.BasicFileAttributesTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BasicFileAttributesTest02" />
         <item itemvalue="Application.BasicFileAttributesTest01" />
         <item itemvalue="Application.RelativizeTest01" />
         <item itemvalue="Application.ResolveTest03" />
         <item itemvalue="Application.PathTest02" />
-        <item itemvalue="Application.PathTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +185,7 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
+        <breakpoint type="java-exception">
           <properties class="java.util.MissingResourceException" package="java.util" />
           <option name="timeStamp" value="18" />
         </breakpoint>
@@ -197,6 +198,11 @@
         <PinnedItemInfo parentTag="java.time.LocalDate" memberName="day" />
       </pinned-members>
     </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="basicFileAttributes" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
