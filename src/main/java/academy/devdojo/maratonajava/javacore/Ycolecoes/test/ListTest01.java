@@ -5,11 +5,16 @@ import java.util.List;
 
 public class ListTest01 {
     public static void main(String[] args) {
-        List<String> names = new ArrayList();
+        List<String> names = new ArrayList<>(10);
+        List<String> names2 = new ArrayList<>(10);
         names.add("Cupim");
         names.add("Luan");
-
-        for (String name: names) {
+        names2.add("Bias");
+        names2.add("Jesus");
+//        names.remove(0); // Index
+//        names.remove("Luan"); // Object
+        names.addAll(names2);
+        for (String name : names) {
             System.out.println(name);
         }
 
