@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasta/subpasta1/subsubpasta1/subsubarquivo1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasta/subpasta2/subarquivo1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pasta/teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pasta/aluno.ser" beforeDir="false" afterPath="$PROJECT_DIR$/pasta/aluno.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Xserialization/SerializacaoTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Xserialization/SerializacaoTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Xserialization/dominio/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Xserialization/dominio/Aluno.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,18 +48,18 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/georgebias/www/youtube/devdojo/java-jiraya/maratona-java/pasta/subpasta2",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/georgebias/www/youtube/devdojo/java-jiraya/maratona-java/pasta/subpasta2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
@@ -171,6 +171,14 @@
       <updated>1668950420142</updated>
       <workItem from="1668950422068" duration="22000" />
     </task>
+    <task id="LOCAL-00001" summary="159 - Classes Utilitárias - Serialization pt 01">
+      <created>1671163726991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671163726991</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +194,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="159 - Classes Utilitárias - Serialization pt 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="159 - Classes Utilitárias - Serialization pt 01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
