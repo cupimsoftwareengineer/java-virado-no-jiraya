@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="">
+    <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="167 - Coleções pt 07 - List pt 02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/dominio/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Ycolecoes/dominio/Smartphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Ycolecoes/test/ListTest01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RebelAgentSelection">
@@ -83,7 +84,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.exception.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListTest01">
+  <component name="RunManager" selected="Application.SmarthphoneListTest01">
     <configuration name="EqualsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.EqualsTest01" />
       <module name="maratona-java" />
@@ -103,19 +104,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PathMatcherTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Wnio.test.PathMatcherTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Wnio.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,13 +137,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SmarthphoneListTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.SmarthphoneListTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmarthphoneListTest01" />
         <item itemvalue="Application.ListTest01" />
         <item itemvalue="Application.EqualsTest01" />
         <item itemvalue="Application.SerializacaoTest01" />
         <item itemvalue="Application.PathMatcherTest02" />
-        <item itemvalue="Application.PathMatcherTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671306789421</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="167 - Coleções pt 07 - List pt 02">
+      <created>1671319742983</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671319742983</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +211,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="159 - Classes Utilitárias - Serialization pt 01" />
     <MESSAGE value="164 - Coleções pt 04 - hashCode pt 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="164 - Coleções pt 04 - hashCode pt 02" />
+    <MESSAGE value="167 - Coleções pt 07 - List pt 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="167 - Coleções pt 07 - List pt 02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
