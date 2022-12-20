@@ -95,13 +95,13 @@
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.runtime.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueueTest02">
-    <configuration name="MapTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.MapTest02" />
+  <component name="RunManager" selected="Application.GenericsTest01">
+    <configuration name="GenericsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.GenericsTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Zgenerics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericsTest01" />
         <item itemvalue="Application.QueueTest02" />
         <item itemvalue="Application.QueueTest01" />
         <item itemvalue="Application.NavigableMapTest01" />
         <item itemvalue="Application.MapTest03" />
-        <item itemvalue="Application.MapTest02" />
       </list>
     </recent_temporary>
   </component>
