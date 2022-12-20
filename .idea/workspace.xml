@@ -95,7 +95,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.Oexception.runtime.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MapTest02">
+  <component name="RunManager" selected="Application.MapTest03">
     <configuration name="MapTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.MapTest01" />
       <module name="maratona-java" />
@@ -122,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NavigableSetTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.NavigableSetTest01" />
+    <configuration name="MapTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.MapTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -163,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapTest03" />
         <item itemvalue="Application.MapTest02" />
         <item itemvalue="Application.MapTest01" />
         <item itemvalue="Application.NavigableSetTest01" />
         <item itemvalue="Application.NavigableSetTest01 (2)" />
-        <item itemvalue="Application.NavigableSetTest01 (1)" />
       </list>
     </recent_temporary>
   </component>
