@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="">
+    <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="167 - Coleções pt 07 - List pt 02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Zgenerics/test/WildcardTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Zgenerics/test/WildcardTest02.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,18 +58,18 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/georgebias/www/youtube/devdojo/java-jiraya/maratona-java/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/test",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/georgebias/www/youtube/devdojo/java-jiraya/maratona-java/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/test&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
@@ -90,14 +89,14 @@
       <recent name="$PROJECT_DIR$/src/main/java/academy/devdojo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.service" />
       <recent name="academy.devdojo.maratonajava.javacore.Ycolecoes.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Vio.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Uregex.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Sformatacao.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClasseGenericaTest02">
+  <component name="RunManager" selected="Application.ClasseGenericaTest03">
     <configuration name="ClasseGenericaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.ClasseGenericaTest01" />
       <module name="maratona-java" />
@@ -124,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.GenericsTest01" />
+    <configuration name="ClasseGenericaTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.ClasseGenericaTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -165,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClasseGenericaTest03" />
         <item itemvalue="Application.ClasseGenericaTest02" />
         <item itemvalue="Application.ClasseGenericaTest01" />
         <item itemvalue="Application.WildcardTest02" />
         <item itemvalue="Application.WildcardTest01" />
-        <item itemvalue="Application.GenericsTest01" />
       </list>
     </recent_temporary>
   </component>
