@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/test/WildcardTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/Zgenerics/test/WildcardTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Zgenerics/test/WildcardTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/Zgenerics/test/WildcardTest02.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,16 +90,16 @@
       <recent name="$PROJECT_DIR$/src/main/java/academy/devdojo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.service" />
       <recent name="academy.devdojo.maratonajava.javacore.Ycolecoes.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Vio.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Uregex.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Sformatacao.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Oexception.runtime.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WildcardTest02">
-    <configuration name="GenericsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.GenericsTest01" />
+  <component name="RunManager" selected="Application.ClasseGenericaTest02">
+    <configuration name="ClasseGenericaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.ClasseGenericaTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -112,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.QueueTest01" />
+    <configuration name="ClasseGenericaTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.ClasseGenericaTest02" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.QueueTest02" />
+    <configuration name="GenericsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.GenericsTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Ycolecoes.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.Zgenerics.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClasseGenericaTest02" />
+        <item itemvalue="Application.ClasseGenericaTest01" />
         <item itemvalue="Application.WildcardTest02" />
         <item itemvalue="Application.WildcardTest01" />
         <item itemvalue="Application.GenericsTest01" />
-        <item itemvalue="Application.QueueTest02" />
-        <item itemvalue="Application.QueueTest01" />
       </list>
     </recent_temporary>
   </component>
