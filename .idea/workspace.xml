@@ -16,9 +16,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="package-info" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -89,42 +89,42 @@
       <recent name="$PROJECT_DIR$/src/main/java/academy/devdojo" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.service" />
       <recent name="academy.devdojo.maratonajava.javacore.Ycolecoes.test" />
       <recent name="academy.devdojo.maratonajava.javacore.Vio.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.Uregex.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ComportamentoPorParametroTest01">
-    <configuration name="AnonymousClassesTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZAclassesinternas.test.AnonymousClassesTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnonymousClassesTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZAclassesinternas.test.AnonymousClassesTest02" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZAclassesinternas.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ComportamentoPorParametroTest03">
     <configuration name="ComportamentoPorParametroTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.ComportamentoPorParametroTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComportamentoPorParametroTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.ComportamentoPorParametroTest02" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComportamentoPorParametroTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test.ComportamentoPorParametroTest03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -164,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComportamentoPorParametroTest03" />
+        <item itemvalue="Application.ComportamentoPorParametroTest02" />
         <item itemvalue="Application.ComportamentoPorParametroTest01" />
         <item itemvalue="Application.OuterClassesTest03 (1)" />
         <item itemvalue="Application.OuterClassesTest03" />
-        <item itemvalue="Application.AnonymousClassesTest02" />
-        <item itemvalue="Application.AnonymousClassesTest01" />
       </list>
     </recent_temporary>
   </component>
