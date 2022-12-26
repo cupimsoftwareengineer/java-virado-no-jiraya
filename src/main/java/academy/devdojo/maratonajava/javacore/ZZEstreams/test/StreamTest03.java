@@ -15,7 +15,8 @@ public class StreamTest03 {
           new LightNovel("Fullmetal Alchemist", 5.99),
           new LightNovel("Kumo desuga", 1.99),
           new LightNovel("Kumo desuga", 1.99),
-          new LightNovel("Monogatari", 4.00)));
+          new LightNovel("Monogatari", 4.00)
+  ));
 
   public static void main(String[] args) {
     Stream<LightNovel> stream = lightNovels.stream();
