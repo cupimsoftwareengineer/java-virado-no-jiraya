@@ -70,7 +70,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
   <component name="RebelAgentSelection">
@@ -99,9 +99,22 @@
       <recent name="academy.devdojo.maratonajava.javacore.Ycolecoes.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeadLockTest01">
+  <component name="RunManager" selected="Application.EmailDeliveryTest01">
     <configuration name="DeadLockTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.DeadLockTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailDeliveryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.EmailDeliveryTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -139,19 +152,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.ThreadTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ThreadTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.ThreadTest02" />
       <module name="maratona-java" />
@@ -167,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmailDeliveryTest01" />
         <item itemvalue="Application.DeadLockTest01" />
         <item itemvalue="Application.ThreadSafeTest01" />
         <item itemvalue="Application.ThreadAccountTest01" />
         <item itemvalue="Application.ThreadTest02" />
-        <item itemvalue="Application.ThreadTest01" />
       </list>
     </recent_temporary>
   </component>
