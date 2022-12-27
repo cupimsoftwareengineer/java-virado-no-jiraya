@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="167 - Coleções pt 07 - List pt 02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesdeprojeto/dominio/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesdeprojeto/dominio/Aircraft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesdeprojeto/dominio/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesdeprojeto/dominio/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +104,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AircraftSingletonEnumTest01">
+  <component name="RunManager" selected="Application.DataTransferObjectTest01">
     <configuration name="AircraftSingletonEagerTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.AircraftSingletonEagerTest01" />
       <module name="maratona-java" />
@@ -155,8 +157,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CurrencyFactoryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.CurrencyFactoryTest01" />
+    <configuration name="DataTransferObjectTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.DataTransferObjectTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -170,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataTransferObjectTest01" />
         <item itemvalue="Application.AircraftSingletonEnumTest01" />
         <item itemvalue="Application.AircraftSingletonLazyTest01" />
         <item itemvalue="Application.AircraftTest01" />
         <item itemvalue="Application.AircraftSingletonEagerTest01" />
-        <item itemvalue="Application.CurrencyFactoryTest01" />
       </list>
     </recent_temporary>
   </component>
