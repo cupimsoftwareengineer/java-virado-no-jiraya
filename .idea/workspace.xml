@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="167 - Coleções pt 07 - List pt 02">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZGconcorrencia/test/AtomicIntegerTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZGconcorrencia/test/AtomicIntegerTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZGconcorrencia/test/AtomicIntegerTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZGconcorrencia/test/AtomicIntegerTest01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZGconcorrencia/test/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZGconcorrencia/test/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZGconcorrencia/test/ReentrantLockTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZGconcorrencia/test/ReentrantLockTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +100,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.Ycolecoes.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReentrantLockTest01">
+  <component name="RunManager" selected="Application.ReentrantLockTest01 (1)">
     <configuration name="AtomicIntegerTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.AtomicIntegerTest01" />
       <module name="maratona-java" />
@@ -129,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeadLockTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.DeadLockTest01" />
+    <configuration name="EmailDeliveryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.EmailDeliveryTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -142,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmailDeliveryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.EmailDeliveryTest01" />
+    <configuration name="ReentrantLockTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.ReentrantLockTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZFthreads.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReentrantLockTest01 (1)" />
         <item itemvalue="Application.ReentrantLockTest01" />
         <item itemvalue="Application.AtomicIntegerTest01 (1)" />
         <item itemvalue="Application.AtomicIntegerTest01" />
         <item itemvalue="Application.EmailDeliveryTest01" />
-        <item itemvalue="Application.DeadLockTest01" />
       </list>
     </recent_temporary>
   </component>

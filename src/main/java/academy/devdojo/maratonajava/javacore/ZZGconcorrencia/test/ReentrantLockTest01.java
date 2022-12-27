@@ -16,9 +16,7 @@ class Worker implements Runnable {
   public void run() {
     lock.lock();
     try {
-      if (lock.isHeldByCurrentThread()) {
-        System.out.printf("Thread %s entrou em uma sessão crítica%n", name);
-      }
+      System.out.printf("Thread %s entrou em uma sessão crítica%n", name);
       System.out.printf("%d Threads esperando na fila%n", lock.getQueueLength());
       System.out.printf("Thread %s vai esperar 2s%n", name);
       try {
@@ -35,7 +33,7 @@ class Worker implements Runnable {
 
 public class ReentrantLockTest01 {
   public static void main(String[] args) {
-    ReentrantLock lock = new ReentrantLock();
+    ReentrantLock lock = new ReentrantLock(true);
     new Thread(new Worker("A", lock)).start();
     new Thread(new Worker("B", lock)).start();
     new Thread(new Worker("C", lock)).start();
