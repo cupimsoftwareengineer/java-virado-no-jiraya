@@ -97,7 +97,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScheduledThreadPoolTest01">
+  <component name="RunManager" selected="Application.FutureTest01">
     <configuration name="BlockingQueueTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.BlockingQueueTest01" />
       <module name="maratona-java" />
@@ -124,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedTransferQueueTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.LinkedTransferQueueTest01" />
+    <configuration name="FutureTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.FutureTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +137,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReentrantReadWriteLockTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.ReentrantReadWriteLockTest01" />
+    <configuration name="LinkedTransferQueueTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.LinkedTransferQueueTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -165,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FutureTest01" />
         <item itemvalue="Application.ScheduledThreadPoolTest01" />
         <item itemvalue="Application.ExecutorsTest01" />
         <item itemvalue="Application.LinkedTransferQueueTest01" />
         <item itemvalue="Application.BlockingQueueTest01" />
-        <item itemvalue="Application.ReentrantReadWriteLockTest01" />
       </list>
     </recent_temporary>
   </component>
