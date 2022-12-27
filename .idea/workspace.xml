@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="167 - Coleções pt 07 - List pt 02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZGconcorrencia/test/CompletableFutureTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZGconcorrencia/test/CompletableFutureTest02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,9 +99,22 @@
       <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CompletableFutureTest01">
+  <component name="RunManager" selected="Application.CompletableFutureTest04">
     <configuration name="CompletableFutureTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.CompletableFutureTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompletableFutureTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.CompletableFutureTest04" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -140,19 +152,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedTransferQueueTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.LinkedTransferQueueTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ScheduledThreadPoolTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.ScheduledThreadPoolTest01" />
       <module name="maratona-java" />
@@ -168,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompletableFutureTest04" />
         <item itemvalue="Application.CompletableFutureTest01" />
         <item itemvalue="Application.FutureTest01" />
         <item itemvalue="Application.ScheduledThreadPoolTest01" />
         <item itemvalue="Application.ExecutorsTest01" />
-        <item itemvalue="Application.LinkedTransferQueueTest01" />
       </list>
     </recent_temporary>
   </component>
