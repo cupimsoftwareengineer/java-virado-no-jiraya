@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="167 - Coleções pt 07 - List pt 02">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="167 - Coleções pt 07 - List pt 02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,9 +97,9 @@
       <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReentrantReadWriteLockTest01">
-    <configuration name="AtomicIntegerTest01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.AtomicIntegerTest01" />
+  <component name="RunManager" selected="Application.BlockingQueueTest01">
+    <configuration name="BlockingQueueTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.BlockingQueueTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -167,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BlockingQueueTest01" />
         <item itemvalue="Application.ReentrantReadWriteLockTest01" />
         <item itemvalue="Application.academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.EmailDeliveryTest01" />
         <item itemvalue="Application.ReentrantLockTest01 (1)" />
         <item itemvalue="Application.ReentrantLockTest01" />
-        <item itemvalue="Application.AtomicIntegerTest01 (1)" />
       </list>
     </recent_temporary>
   </component>
