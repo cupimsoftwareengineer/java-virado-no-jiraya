@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="167 - Coleções pt 07 - List pt 02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZHpadroesdeprojeto/test/AircraftTest01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZHpadroesdeprojeto/test/AircraftTest01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,9 +102,22 @@
       <recent name="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AircraftSingletonLazyTest01">
+  <component name="RunManager" selected="Application.AircraftSingletonEnumTest01">
     <configuration name="AircraftSingletonEagerTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.AircraftSingletonEagerTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AircraftSingletonEnumTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.AircraftSingletonEnumTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -143,19 +155,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuilderPatternTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.BuilderPatternTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CurrencyFactoryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.CurrencyFactoryTest01" />
       <module name="maratona-java" />
@@ -171,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AircraftSingletonEnumTest01" />
         <item itemvalue="Application.AircraftSingletonLazyTest01" />
         <item itemvalue="Application.AircraftTest01" />
         <item itemvalue="Application.AircraftSingletonEagerTest01" />
         <item itemvalue="Application.CurrencyFactoryTest01" />
-        <item itemvalue="Application.BuilderPatternTest01" />
       </list>
     </recent_temporary>
   </component>
