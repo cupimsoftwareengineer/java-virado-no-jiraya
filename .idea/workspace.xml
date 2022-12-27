@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="167 - Coleções pt 07 - List pt 02" />
+    <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="167 - Coleções pt 07 - List pt 02">
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZGconcorrencia/test/ScheduledThreadPoolTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZGconcorrencia/test/ScheduledThreadPoolTest01.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +99,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.Zgenerics.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExecutorsTest01">
+  <component name="RunManager" selected="Application.ScheduledThreadPoolTest01">
     <configuration name="BlockingQueueTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.BlockingQueueTest01" />
       <module name="maratona-java" />
@@ -150,8 +152,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.EmailDeliveryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.EmailDeliveryTest01" />
+    <configuration name="ScheduledThreadPoolTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.ScheduledThreadPoolTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -165,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScheduledThreadPoolTest01" />
         <item itemvalue="Application.ExecutorsTest01" />
         <item itemvalue="Application.LinkedTransferQueueTest01" />
         <item itemvalue="Application.BlockingQueueTest01" />
         <item itemvalue="Application.ReentrantReadWriteLockTest01" />
-        <item itemvalue="Application.academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.EmailDeliveryTest01" />
       </list>
     </recent_temporary>
   </component>
