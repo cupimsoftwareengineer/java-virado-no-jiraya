@@ -6,7 +6,23 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="167 - Coleções pt 07 - List pt 02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/test/CrudTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/test/CrudTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/conn/ConnectionFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/dominio/Anime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/dominio/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/repository/AnimeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/repository/ProducerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/service/AnimeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/service/ProducerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/test/CrudTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/conn/ConnectionFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/dominio/Anime$AnimeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/dominio/Anime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/dominio/Producer$ProducerBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/dominio/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/repository/ProducerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/service/ProducerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/test/CrudTest01.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +36,7 @@
         <option value="Interface" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -67,11 +84,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "last_opened_file_path": "/Users/georgebias/www/youtube/devdojo/java-jiraya/maratona-java/src/main/java/academy/devdojo/maratonajava/javacore/ZZGconcorrencia",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RebelAgentSelection">
@@ -96,6 +115,12 @@
       <recent name="academy.devdojo.maratonajava.javacore.ZZIjdbc.dominio" />
       <recent name="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.dominio" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="academy.devdojo.maratonajava.javacore.ZZKjunit.service" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="academy.devdojo.maratonajava.javacore.ZZJcrud.dominio" />
       <recent name="academy.devdojo.maratonajava.javacore.ZZJcrud.conn" />
@@ -104,20 +129,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.dominio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CrudTest01">
-    <configuration name="ConnectionFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZIjdbc.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.PersonServiceTest">
     <configuration name="ConnectionFactoryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01" />
       <module name="maratona-java" />
@@ -157,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTransferObjectTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.DataTransferObjectTest01" />
+    <configuration name="PersonServiceTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZKjunit.test.PersonServiceTest01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZKjunit.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,13 +182,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PersonServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service" />
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZKjunit.service.PersonServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PersonServiceTest" />
+        <item itemvalue="Application.PersonServiceTest01" />
         <item itemvalue="Application.CrudTest01" />
         <item itemvalue="Application.ConnectionFactoryTest02" />
         <item itemvalue="Application.ConnectionFactoryTest01" />
-        <item itemvalue="Application.ConnectionFactoryTest" />
-        <item itemvalue="Application.DataTransferObjectTest01" />
       </list>
     </recent_temporary>
   </component>
