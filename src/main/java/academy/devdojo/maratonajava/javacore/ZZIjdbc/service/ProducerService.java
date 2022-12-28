@@ -1,35 +1,39 @@
 package academy.devdojo.maratonajava.javacore.ZZIjdbc.service;
 
 import academy.devdojo.maratonajava.javacore.ZZIjdbc.dominio.Producer;
-import academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProduceRepository;
+import academy.devdojo.maratonajava.javacore.ZZIjdbc.repository.ProducerRepository;
 
 import java.util.List;
 
 public class ProducerService {
   public static void save(Producer producer) {
-    ProduceRepository.save(producer);
+    ProducerRepository.save(producer);
   }
 
   public static void delete(Integer id) {
     requireValidId(id);
-    ProduceRepository.delete(id);
+    ProducerRepository.delete(id);
   }
 
   public static void update(Producer producer) {
     requireValidId(producer.getId());
-    ProduceRepository.update(producer);
+    ProducerRepository.update(producer);
   }
 
   public static List<Producer> findAll() {
-    return ProduceRepository.findAll();
+    return ProducerRepository.findAll();
   }
 
   public static List<Producer> findByName(String name) {
-    return ProduceRepository.findByName(name);
+    return ProducerRepository.findByName(name);
   }
 
   public static void showProducerMetadata() {
-    ProduceRepository.showProducerMetadata();
+    ProducerRepository.showProducerMetadata();
+  }
+
+  public static void showDriverMetaData() {
+    ProducerRepository.showDriverMetaData();
   }
 
   private static void requireValidId(Integer id) {
