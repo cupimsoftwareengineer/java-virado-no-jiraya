@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="167 - Coleções pt 07 - List pt 02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesdeprojeto/dominio/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesdeprojeto/dominio/Aircraft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesdeprojeto/dominio/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZHpadroesdeprojeto/dominio/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,18 +62,18 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/georgebias/www/youtube/devdojo/java-jiraya/maratona-java/src/main/java/academy/devdojo/maratonajava/javacore/ZZGconcorrencia",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/georgebias/www/youtube/devdojo/java-jiraya/maratona-java/src/main/java/academy/devdojo/maratonajava/javacore/ZZGconcorrencia&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
@@ -94,6 +93,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/academy/devdojo" />
     </key>
     <key name="CreateBuilderDialog.RecentsKey">
+      <recent name="academy.devdojo.maratonajava.javacore.ZZIjdbc.dominio" />
       <recent name="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.dominio" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -104,20 +104,7 @@
       <recent name="academy.devdojo.maratonajava.javacore.ZZBcomportamento.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DataTransferObjectTest01">
-    <configuration name="AircraftSingletonEagerTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.AircraftSingletonEagerTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ConnectionFactoryTest01">
     <configuration name="AircraftSingletonEnumTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.AircraftSingletonEnumTest01" />
       <module name="maratona-java" />
@@ -144,12 +131,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AircraftTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.AircraftTest01" />
+    <configuration name="ConnectionFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.*" />
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZIjdbc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectionFactoryTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZIjdbc.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConnectionFactoryTest01" />
+        <item itemvalue="Application.ConnectionFactoryTest" />
         <item itemvalue="Application.DataTransferObjectTest01" />
         <item itemvalue="Application.AircraftSingletonEnumTest01" />
         <item itemvalue="Application.AircraftSingletonLazyTest01" />
-        <item itemvalue="Application.AircraftTest01" />
-        <item itemvalue="Application.AircraftSingletonEagerTest01" />
       </list>
     </recent_temporary>
   </component>
