@@ -6,23 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="167 - Coleções pt 07 - List pt 02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/conn/ConnectionFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/dominio/Anime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/dominio/Producer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/repository/AnimeRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/repository/ProducerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/service/AnimeService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/service/ProducerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/test/CrudTest01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/conn/ConnectionFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/dominio/Anime$AnimeBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/dominio/Anime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/dominio/Producer$ProducerBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/dominio/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/repository/ProducerRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/service/ProducerService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZJcrud/test/CrudTest01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZKjunit/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZKjunit/service/PersonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/academy/devdojo/maratonajava/javacore/ZZKjunit/service/PersonServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/academy/devdojo/maratonajava/javacore/ZZKjunit/service/PersonServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZKjunit/service/PersonService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZKjunit/service/PersonService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/academy/devdojo/maratonajava/javacore/ZZKjunit/service/PersonServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/academy/devdojo/maratonajava/javacore/ZZKjunit/service/PersonServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -325,6 +312,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/maratona_java$ReentrantLockTest01__1_.ic" NAME="ReentrantLockTest01 (1) Coverage Results" MODIFIED="1672162065916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/maratona_java$PersonServiceTest.ic" NAME="PersonServiceTest Coverage Results" MODIFIED="1672263574696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>academy.devdojo.maratonajava.javacore.ZZKjunit.service.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/maratona_java$LinkedTransferQueueTest01.ic" NAME="LinkedTransferQueueTest01 Coverage Results" MODIFIED="1672164185785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test.*</FILTER>
