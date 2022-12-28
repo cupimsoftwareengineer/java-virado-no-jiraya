@@ -31,4 +31,15 @@ public class ProduceRepository {
       log.error("Error while trying to delete producer '{}'", id, e);
     }
   }
+
+  public static void update(Producer producer) {
+    String sql = String.format("UPDATE anime_store.producer t SET t.name = '%s' WHERE t.id = %d;", producer.getName(), producer.getId());
+    try (Connection conn = ConnectionFactory.getConnection();
+         Statement stmt = conn.createStatement()) {
+      int rowsAffected = stmt.executeUpdate(sql);
+      log.info("Updated producer '{}, rows affected '{}'", producer.getId(), rowsAffected);
+    } catch (SQLException e) {
+      log.error("Error while trying to update producer '{}'", producer.getId(), e);
+    }
+  }
 }

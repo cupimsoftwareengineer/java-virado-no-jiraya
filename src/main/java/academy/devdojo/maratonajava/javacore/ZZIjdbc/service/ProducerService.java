@@ -8,10 +8,19 @@ public class ProducerService {
     ProduceRepository.save(producer);
   }
 
-  public static void delete(int id) {
-    if(id <= 0) {
+  public static void delete(Integer id) {
+    requireValidId(id);
+    ProduceRepository.delete(id);
+  }
+
+  public static void update(Producer producer) {
+    requireValidId(producer.getId());
+    ProduceRepository.update(producer);
+  }
+
+  private static void requireValidId(Integer id) {
+    if (id == null || id <= 0) {
       throw new IllegalArgumentException("Invalid value for id");
     }
-    ProduceRepository.delete(id);
   }
 }
