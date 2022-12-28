@@ -24,6 +24,10 @@ public class ProducerService {
     return ProduceRepository.findAll();
   }
 
+  public static List<Producer> findByName(String name) {
+    return ProduceRepository.findByName(name);
+  }
+
   private static void requireValidId(Integer id) {
     if (id == null || id <= 0) {
       throw new IllegalArgumentException("Invalid value for id");
