@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59d1432e-871d-4d43-8066-9f7f55695d60" name="Changes" comment="167 - Coleções pt 07 - List pt 02">
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZIjdbc/repository/ProducerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZIjdbc/repository/ProducerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZIjdbc/service/ProducerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZIjdbc/service/ProducerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZIjdbc/repository/ProducerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZIjdbc/repository/ProducerRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZIjdbc/service/ProducerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/maratonajava/javacore/ZZIjdbc/service/ProducerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/test/CrudTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/maratonajava/javacore/ZZJcrud/test/CrudTest01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,27 +97,14 @@
       <recent name="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.dominio" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.devdojo.maratonajava.javacore.ZZJcrud.dominio" />
+      <recent name="academy.devdojo.maratonajava.javacore.ZZJcrud.conn" />
       <recent name="academy.devdojo.maratonajava.javacore.ZZIjdbc.test" />
       <recent name="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test" />
       <recent name="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.dominio" />
-      <recent name="academy.devdojo.maratonajava.javacore.ZZGconcorrencia.test" />
-      <recent name="academy.devdojo.maratonajava.javacore.ZZEstreams.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConnectionFactoryTest02">
-    <configuration name="AircraftSingletonEnumTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.AircraftSingletonEnumTest01" />
-      <module name="maratona-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.CrudTest01">
     <configuration name="ConnectionFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZIjdbc.test.ConnectionFactoryTest" />
       <module name="maratona-java" />
@@ -159,6 +144,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CrudTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZJcrud.test.CrudTest01" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.devdojo.maratonajava.javacore.ZZJcrud.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DataTransferObjectTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.devdojo.maratonajava.javacore.ZZHpadroesdeprojeto.test.DataTransferObjectTest01" />
       <module name="maratona-java" />
@@ -174,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CrudTest01" />
         <item itemvalue="Application.ConnectionFactoryTest02" />
         <item itemvalue="Application.ConnectionFactoryTest01" />
         <item itemvalue="Application.ConnectionFactoryTest" />
         <item itemvalue="Application.DataTransferObjectTest01" />
-        <item itemvalue="Application.AircraftSingletonEnumTest01" />
       </list>
     </recent_temporary>
   </component>
